@@ -1,4 +1,4 @@
-module github.com/gogo/gateway
+module github.com/mingqing/gateway
 
 go 1.12
 
